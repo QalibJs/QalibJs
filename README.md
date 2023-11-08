@@ -1,7 +1,7 @@
 ![MasterHead](https://cdn.getsmartcoders.com/resources/img/flutter-app-development-services-tools.jpg)
 
 
-<h3 align="center">I am from Azerbaijan. I am learning the Flutter/Dart Mobile Development field and improving myself.</h3>
+<h3 align="center"> Cross Platform Mobile Developer</h3>
 
 - 🔭 I’m currently working on **Flutter/Dart**
 
